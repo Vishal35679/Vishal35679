@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<script src="https://tryhackme.com/badge/2733957"></script>
+
 [![@vishal3579's Holopin board](https://holopin.me/vishal3579)](https://holopin.io/@vishal3579)
 
 <!--
